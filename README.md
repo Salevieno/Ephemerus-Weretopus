@@ -1,5 +1,7 @@
 # Ephemerus Weretopus
- Making a game in 6h challenge\
+
+ ### Making a game in 6h challenge
+ \
  A challenge my 2 friends and I took to make a game from scratch in 6h.\
  Concept. Scope. Images. EVERYTHING!\
  \
